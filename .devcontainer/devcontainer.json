@@ -1,5 +1,5 @@
 {
-  "name": "codespace-template-ts-beginner-app",
+  "name": "codespace-ts-memo-app",
   "dockerComposeFile": "./docker-compose.yml",
   "service": "node",
   "workspaceFolder": "/var/www",
